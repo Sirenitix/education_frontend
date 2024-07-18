@@ -2,16 +2,7 @@
 <div style="display: flex;
                   justify-content: center; 
                   align-items: center;">
-  <br><br><br><br>
-  <br><br><br><br>
-  <br><br><br><br>
-  <br><br><br><br>
-  <br><br><br><br>             
-  <br><br><br><br>
-  <br><br><br><br>
-  <br><br><br><br>
-  <br><br><br><br>   
-      
+
  <section>
 
         <b-field label="Username"
